@@ -1,0 +1,5 @@
+GRAPHICAL EDITOR
+By Matthew McNierney
+
+Java applet for a simple graphical editor. Users can draw rectangles, ellipses, and line
+segments, and then edit them in various ways.
